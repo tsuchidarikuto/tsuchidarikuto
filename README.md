@@ -1,6 +1,6 @@
 # Welcome to my Profile! 👋
 
-Hi there! I'm **Rikuto Tsuchida (つちだりくと)**, a Master's student in Information Science at **NAIST** (Nara Institute of Science and Technology).
+Hi there! I'm **Rikuto Tsuchida **, a Master's student in Information Science at **NAIST** (Nara Institute of Science and Technology).
 
 ## 🎓 About Me
 
