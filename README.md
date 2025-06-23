@@ -12,9 +12,8 @@ Hi there! I'm **Rikuto Tsuchida **, a Master's student in Information Science at
 
 ### Languages & Frameworks
 - **Python** - Data analysis, machine learning, backend development
-- **C++** - Systems programming, competitive programming
-- **TypeScript/JavaScript** - Modern web development
-- **Next.js** - Full-stack React applications
+- **C++** - competitive programming
+
 
 ### Areas of Interest
 - Web Development
