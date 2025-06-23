@@ -30,6 +30,9 @@ Hi there! I'm **Rikuto Tsuchida**, a Master's student in Information Science at 
 
 ## 📊 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=tsuchidarikuto&label=Profile%20views&color=0e75b6&style=flat)
+
+       
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tsuchidarikuto&show_icons=true&theme=default" />
 </a>
