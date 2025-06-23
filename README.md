@@ -1,6 +1,6 @@
 # Welcome to my Profile! 👋
 
-Hi there! I'm **Rikuto Tsuchida **, a Master's student in Information Science at **NAIST** (Nara Institute of Science and Technology).
+Hi there! I'm **Rikuto Tsuchida**, a Master's student in Information Science at **NAIST** (Nara Institute of Science and Technology).
 
 ## 🎓 About Me
 
@@ -18,7 +18,6 @@ Hi there! I'm **Rikuto Tsuchida **, a Master's student in Information Science at
 ### Areas of Interest
 - Web Development
 - Software Engineering
-- Information Science Research
 - Machine Learning & Data Analysis
 
 ## 🌐 Connect with Me
@@ -44,4 +43,4 @@ Hi there! I'm **Rikuto Tsuchida **, a Master's student in Information Science at
 
 ---
 
-💡 Always open to collaboration and interesting conversations about technology, research, or music!
+
