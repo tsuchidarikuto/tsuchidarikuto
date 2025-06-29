@@ -8,18 +8,6 @@ Hi there! I'm **Rikuto Tsuchida**, a Master's student in Information Science at 
 - 💻 **Software Developer** passionate about creating innovative solutions
 - 🎸 **Guitar Enthusiast** - Music is my creative outlet!
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-- **Python** - Data analysis, machine learning, backend development
-- **C++** - competitive programming
-
-
-### Areas of Interest
-- Web Development
-- Software Engineering
-- Machine Learning & Data Analysis
-
 ## 🌐 Connect with Me
 
 - 📝 **Technical Writing**: 
